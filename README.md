@@ -1,2 +1,2 @@
 # LightControl
-A car rear light model with remote control
+Here you can find all project files for the LightControl Project, including schematics, PCB-designs, fabrication files and renderings.
