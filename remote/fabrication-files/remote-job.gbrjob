@@ -5,17 +5,17 @@
       "Application": "Pcbnew",
       "Version": "7.0.1"
     },
-    "CreationDate": "2023-03-29T16:15:43+02:00"
+    "CreationDate": "2023-03-29T16:16:29+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "mainboard",
-      "GUID": "6d61696e-626f-4617-9264-2e6b69636164",
+      "Name": "remote",
+      "GUID": "72656d6f-7465-42e6-9b69-6361645f7063",
       "Revision": "1.0"
     },
     "Size": {
-      "X": 70.2,
-      "Y": 70.2
+      "X": 30.1,
+      "Y": 58.1
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
@@ -27,54 +27,54 @@
       "PadToPad": 0.2,
       "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
-      "MinLineWidth": 0.2,
+      "MinLineWidth": 0.25,
       "TrackToRegion": 0.5,
       "RegionToRegion": 0.5
     }
   ],
   "FilesAttributes": [
     {
-      "Path": "mainboard-F_Cu.gbr",
+      "Path": "remote-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "mainboard-B_Cu.gbr",
+      "Path": "remote-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "mainboard-F_Paste.gbr",
+      "Path": "remote-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "mainboard-B_Paste.gbr",
+      "Path": "remote-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "mainboard-F_Silkscreen.gbr",
+      "Path": "remote-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "mainboard-B_Silkscreen.gbr",
+      "Path": "remote-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "mainboard-F_Mask.gbr",
+      "Path": "remote-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "mainboard-B_Mask.gbr",
+      "Path": "remote-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "mainboard-Edge_Cuts.gbr",
+      "Path": "remote-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
@@ -90,29 +90,24 @@
     },
     {
       "Type": "SolderMask",
-      "Thickness": 0.01,
       "Name": "Top Solder Mask"
     },
     {
       "Type": "Copper",
-      "Thickness": 0.035,
       "Name": "F.Cu"
     },
     {
       "Type": "Dielectric",
-      "Thickness": 1.51,
       "Material": "FR4",
       "Name": "F.Cu/B.Cu",
       "Notes": "Type: dielectric layer 1 (from F.Cu to B.Cu)"
     },
     {
       "Type": "Copper",
-      "Thickness": 0.035,
       "Name": "B.Cu"
     },
     {
       "Type": "SolderMask",
-      "Thickness": 0.01,
       "Name": "Bottom Solder Mask"
     },
     {

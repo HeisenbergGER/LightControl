@@ -7,7 +7,7 @@
 6;"U2";"DIP-28_W7.62mm";1;"ATmega328P-P";;;
 7;"Q3,Q1,Q2";"TO-220-3_Vertical";3;"IRF3708";;;
 8;"J1";"CUI_PJ-202B";1;"Barrel_Jack 2.1mm / 2.5A";;;
-9;"R1";"R_0603_1608Metric";1;"500";;;
+9;"R1";"R_0603_1608Metric";1;"500 / 1/4W";;;
 10;"D1";"LED_0603_1608Metric";1;"SML-310VT - RED";;;
 11;"J4";"PinHeader_2x04_P2.54mm_Vertical";1;"Conn_02x04_Odd_Even";;;
 12;"J3";"TerminalBlock_TE_282834-4_1x04_P2.54mm_Horizontal";1;"Screw_Terminal_01x04";;;
@@ -20,4 +20,4 @@
 19;"R6";"R_0603_1608Metric";1;"10k";;;
 20;"Y1";"Crystal_HC49-4H_Vertical";1;"16Mhz, 20pF";;;
 21;"C2";"C_Radial_D5.0mm_H5.0mm_P2.00mm";1;"22uF / 25V";;;
-22;"R2";"R_0603_1608Metric";1;"150";;;
+22;"R2";"R_0603_1608Metric";1;"150 / 1/10W";;;
